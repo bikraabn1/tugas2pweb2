@@ -4,9 +4,9 @@ Mengimplementasikan Read untuk menampilkan data sesuai role dengan PHP OOP
 
 ## Tentang saya
 
-Nama : Bikra Abna Filqiyast Dzaki\n
-NIM : 230302005\n
-Kelas : TI-2A\n
+Nama : Bikra Abna Filqiyast Dzaki \
+NIM : 230302005 \
+Kelas : TI-2A \
 
 ## Database yang Digunakan
 
@@ -215,5 +215,5 @@ Implementasi method read() dari interface Read di berbagai kelas (District, Inte
 ![SubdistrictView](assets/SubdistrictView.png)
 
 # About Me
-IG : @bikraaa_ \n
+IG : @bikraaa_ \
 Github : https://github.com/bikraabn1
