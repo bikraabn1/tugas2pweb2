@@ -32,7 +32,7 @@ class DB {
     protected $conn;
 
     // Konstruktor kelas DB yang akan dijalankan saat instansiasi objek.
-    protected function __construct(){
+    public function __construct(){
         // Membuat koneksi ke database menggunakan kelas mysqli dan menyimpannya di properti $conn.
         $this->conn = new mysqli($this->host, $this->user, $this->pass, $this->db);
 
