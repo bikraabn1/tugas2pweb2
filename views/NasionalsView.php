@@ -41,7 +41,7 @@ $no = 1;
 
     <main class="d-flex flex-column justify-content-center align-items-center">
 
-        <h1 class="mb-5">Data Tabel Siswa Berprestasi Tingkat Kecamatan</h1>
+        <h1 class="mb-5">Data Tabel Siswa Berprestasi Tingkat Nasional</h1>
 
         <table class="table table-primary w-75">
             <thead>
