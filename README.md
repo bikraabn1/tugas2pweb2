@@ -6,7 +6,7 @@ Mengimplementasikan Read untuk menampilkan data sesuai role dengan PHP OOP
 
 Nama : Bikra Abna Filqiyast Dzaki \
 NIM : 230302005 \
-Kelas : TI-2A \
+Kelas : TI-2A
 
 ## Database yang Digunakan
 
